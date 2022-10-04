@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\bin\Debug\net6.0\Grocery List Lab.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\bin\Debug\net6.0\Grocery List Lab.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\bin\Debug\net6.0\Grocery List Lab.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\bin\Debug\net6.0\Grocery List Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\bin\Debug\net6.0\Grocery List Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\refint\Grocery List Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\Grocery List Lab.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Grocery List Lab\Grocery List Lab\obj\Debug\net6.0\ref\Grocery List Lab.dll
